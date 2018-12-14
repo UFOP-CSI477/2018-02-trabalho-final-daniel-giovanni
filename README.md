@@ -4,10 +4,10 @@
 ---
 
 ##### Resumo
-O objetivo desse documento é apresentar uma descrição de uma proposta de trabalho final da disciplina CSI477 - Sistemas WEB I. É feita uma breve descrição sobre o tema abordado, assim como o escopo, as restrições e demais questões relacionadas ao contexto. 
+O objetivo desse documento é apresentar uma descrição de uma proposta de trabalho final da disciplina CSI477 - Sistemas WEB I. É feita uma breve descrição sobre o tema abordado, assim como o escopo, as restrições e demais questões relacionadas ao contexto. Ele consiste na elaboração de um sistema de emissão de declarações e gerenciamento de alunos de uma escola.
 
 ##### Tema
-O trabalho final tem como tema o desenvolvimento sistema web para gerenciar alunos e turmas do ciclo básico de ensino. O sistema permite cadastrar alunos, turmas e ano letivo assim como permite pesquisas e exibição dos dados. Principal funcionalidade fica por conta da geração de declarações em formato PDF.
+O trabalho final tem como tema o desenvolvimento sistema web para gerenciar alunos e turmas do ciclo básico de ensino. O sistema permite cadastrar alunos, turmas e ano letivo assim como permite pesquisas e exibição dos dados. Principal funcionalidade fica por conta da geração de declarações em formato PDF. As declarações são do tipo declaração de frequência, declaração de transferência e declaração de conclusão.
 ##### Escopo
 O sistema web permite as seguintes ações: cadastro e gestão de alunos, turmas e ano letivo, a possibilidade de realizar buscas tanto de alunos como de turmas e ano; possibilidade de gerar relatórios e emitir declarações.
 ##### Restrições
